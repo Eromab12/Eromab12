@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer | Bilingual (English B2) | Data & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eromab12&show_icons=true&theme=radical" alt="Roman's Stats" />
+  <a href="https://github.com/Eromab12"><img src="https://img.shields.io/github/followers/Eromab12?style=social" alt="Followers" /></a>
 </p>
 
 - 🔭 I’m currently working on **DataRefine** (Data Analysis & Cleaning)
